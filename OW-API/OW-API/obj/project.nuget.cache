@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "csq8MNBU+ZE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lolim\\source\\repos\\OW-API\\OW-API\\OW-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lolim\\.nuget\\packages\\aqua-core\\5.4.2\\aqua-core.5.4.2.nupkg.sha512",
+    "C:\\Users\\lolim\\.nuget\\packages\\aqua-core-newtonsoft-json\\5.4.2\\aqua-core-newtonsoft-json.5.4.2.nupkg.sha512",
+    "C:\\Users\\lolim\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\lolim\\.nuget\\packages\\remote.linq\\7.2.2\\remote.linq.7.2.2.nupkg.sha512",
+    "C:\\Users\\lolim\\.nuget\\packages\\remote.linq.newtonsoft.json\\7.2.2\\remote.linq.newtonsoft.json.7.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
